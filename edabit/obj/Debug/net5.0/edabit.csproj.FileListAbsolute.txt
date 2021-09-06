@@ -1,0 +1,16 @@
+C:\Users\jatoth.sureshkumar\source\repos\edabit\bin\Debug\net5.0\edabit.exe
+C:\Users\jatoth.sureshkumar\source\repos\edabit\bin\Debug\net5.0\edabit.deps.json
+C:\Users\jatoth.sureshkumar\source\repos\edabit\bin\Debug\net5.0\edabit.runtimeconfig.json
+C:\Users\jatoth.sureshkumar\source\repos\edabit\bin\Debug\net5.0\edabit.runtimeconfig.dev.json
+C:\Users\jatoth.sureshkumar\source\repos\edabit\bin\Debug\net5.0\edabit.dll
+C:\Users\jatoth.sureshkumar\source\repos\edabit\bin\Debug\net5.0\ref\edabit.dll
+C:\Users\jatoth.sureshkumar\source\repos\edabit\bin\Debug\net5.0\edabit.pdb
+C:\Users\jatoth.sureshkumar\source\repos\edabit\obj\Debug\net5.0\edabit.csproj.AssemblyReference.cache
+C:\Users\jatoth.sureshkumar\source\repos\edabit\obj\Debug\net5.0\edabit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jatoth.sureshkumar\source\repos\edabit\obj\Debug\net5.0\edabit.AssemblyInfoInputs.cache
+C:\Users\jatoth.sureshkumar\source\repos\edabit\obj\Debug\net5.0\edabit.AssemblyInfo.cs
+C:\Users\jatoth.sureshkumar\source\repos\edabit\obj\Debug\net5.0\edabit.csproj.CoreCompileInputs.cache
+C:\Users\jatoth.sureshkumar\source\repos\edabit\obj\Debug\net5.0\edabit.dll
+C:\Users\jatoth.sureshkumar\source\repos\edabit\obj\Debug\net5.0\ref\edabit.dll
+C:\Users\jatoth.sureshkumar\source\repos\edabit\obj\Debug\net5.0\edabit.pdb
+C:\Users\jatoth.sureshkumar\source\repos\edabit\obj\Debug\net5.0\edabit.genruntimeconfig.cache
